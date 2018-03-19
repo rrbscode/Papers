@@ -1,7 +1,8 @@
 ## Data source:
-
-
-
+(1) Franck Court, et al. (2014).  Genome-wide parent-of-origin DNA methylation analysis reveals the intricacies of human imprinting and suggests a germline methylation-independent mechanism of establishment.  Genome Res. 24: 554-569. https://genome.cshlp.org/content/24/4/554      
+(2)  Yael Baran, et al. (2015). The landscape of genomic imprinting across diverse adult human tissues. Genome Res.  25: 927-936.https://genome.cshlp.org/content/25/7/927.full    
+                                  
+-----------------------------------------------------------                           
 ## Other References:
 (1)  https://en.wikipedia.org/wiki/Genomic_imprinting   
 (2)  Kelsey G, Bartolomei MS (2012) Imprinted Genes … and the Number Is? PLoS Genet 8(3): e1002601. https://doi.org/10.1371/journal.pgen.1002601.         
